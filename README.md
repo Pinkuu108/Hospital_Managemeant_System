@@ -36,7 +36,7 @@ Hospital_Management_System/
 
 1️⃣ Clone Repository
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Pinkuu108/Hospital_Managemeant_System.git
 
 2️⃣ Open Project
 
