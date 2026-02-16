@@ -23,7 +23,7 @@ The application is built using Spring Boot, Spring Data JPA, and Hibernate with 
 - MySQL  
 
 📂 Project Structure
-
+```
 Hospital_Management_System/
 ├── controller/      → REST Controllers (API Layer)
 ├── service/         → Business Logic
@@ -31,13 +31,13 @@ Hospital_Management_System/
 ├── entity/          → JPA Entities / Database Models
 ├── exception/       → Global Exception Handling
 └── config/          → Configuration Classes
-
+```
 ⚙️ Setup Instructions
 
 1️⃣ Clone Repository
-
+```
 git clone https://github.com/Pinkuu108/Hospital_Managemeant_System.git
-
+```
 2️⃣ Open Project
 
 Import into IntelliJ IDEA / Eclipse / Spring Tool Suite
@@ -45,11 +45,11 @@ Import into IntelliJ IDEA / Eclipse / Spring Tool Suite
 3️⃣ Configure Database (application.properties)
 
 Update only these values based on your local MySQL setup:
-
+```
 spring.datasource.url=jdbc:mysql://localhost:3306/your_database  
 spring.datasource.username=your_username  
 spring.datasource.password=your_password  
-
+```
 ✔ No other changes required
 
 4️⃣ Run Application
